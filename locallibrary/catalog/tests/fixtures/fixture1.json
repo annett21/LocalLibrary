@@ -1,0 +1,12 @@
+[
+    {
+        "model": "catalog.author",
+        "pk": 1,
+        "fields": {
+            "first_name": "Big",
+            "last_name": "Bob",
+            "date_of_birth": "2000-01-01",
+            "date_of_death": "2000-01-01"
+        }
+    }
+]
